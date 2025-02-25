@@ -2,7 +2,7 @@
 Welcome to my repository!
 
 # Мой код:
-
+```C++
 #include <iostream>
 #include <string>
 using namespace std;
@@ -28,4 +28,5 @@ int main() {
 	system("pause");
 	return 0;
 }
+```
 
